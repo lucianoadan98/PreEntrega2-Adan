@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(83, 59, 223);
+}
+
+button {
+    background-color: rgb(12, 202, 28);
+    height: 50px;
+    
+}
+
+h1{
+    padding-top: 50px;
+    display: flex;
+     justify-content: center;
+    
+}
+div {
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+  } 
